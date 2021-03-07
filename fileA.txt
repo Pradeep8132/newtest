@@ -1,1 +1,2 @@
 hello file Aversion2
+this is new version of file A
